@@ -1,0 +1,9 @@
+LIBRARY dxutil.dll
+EXPORTS
+    ??1D3DShaderIncludeImp@MaxDXUtilites@@UEAA@XZ
+    ?Open@D3DShaderIncludeImp@MaxDXUtilites@@UEAAJW4_D3DXINCLUDE_TYPE@@PEBDPEBXPEAPEBXPEAI@Z
+    ??0D3DShaderIncludeImp@MaxDXUtilites@@QEAA@H@Z
+    ??0D3DShaderIncludeImp@MaxDXUtilites@@QEAA@AEBVWStr@@0H@Z
+    ?Close@D3DShaderIncludeImp@MaxDXUtilites@@UEAAJPEBX@Z
+    ?LoadFileToString@MaxDXUtilites@@YA_NAEBVWStr@@AEAVUTF8Str@@@Z
+    ?CheckHardwareCaps@MaxDXUtilites@@YAXPEAUIDirect3D9@@AEAH1@Z
